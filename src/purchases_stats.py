@@ -104,17 +104,19 @@ def calculate_statistics(df: DataFrame) -> json:
         if df.empty:
             raise ValueError("There is no data in the DataFrame to perform the calculations on.")
 
-        console = Console()
-        table = Table("Original Purchase Data", box=box.SQUARE)
-        table.add_row(df.to_string(float_format=lambda _: "${:.2f}".format(_)))
-        console.print(table)
+        # DISPLAYING OF THE TABLE - COMMENTED OUT SINCE NOT REQUIRED FOR SOLUTION, BUT USEFUL WHEN TESTING
+        # console = Console()
+        # table = Table("Original Purchase Data", box=box.SQUARE)
+        # table.add_row(df.to_string(float_format=lambda _: "${:.2f}".format(_)))
+        # console.print(table)
 
         # Work out the total a purchase per brand, customer_id and purchase_id
         purchase_total = df.sort_values(["brand", "customer_id", "purchase_id"]).groupby(["brand", "customer_id", "purchase_id"])["item_product_value"].sum()
 
-        table = Table("Purchase Totals per purchase_id", box=box.SQUARE)
-        table.add_row(purchase_total.to_string(float_format=lambda _: "${:.2f}".format(_)))
-        console.print(table)
+        # DISPLAYING OF THE TABLE - COMMENTED OUT SINCE NOT REQUIRED FOR SOLUTION, BUT USEFUL WHEN TESTING
+        # table = Table("Purchase Totals per purchase_id", box=box.SQUARE)
+        # table.add_row(purchase_total.to_string(float_format=lambda _: "${:.2f}".format(_)))
+        # console.print(table)
 
         # Calculations
 
