@@ -179,6 +179,4 @@ Resulting on these values output:
 - **Docker Issues:** Ensure Docker is running and that your system meets the minimum requirements.
 - **Environment Variables:** Verify that the `.env` file contains all necessary variables.
 
-### **Summary**
-
-This documentation provides a comprehensive guide to setting up, running, and extending the purchase statistics processing project. It includes installation instructions, usage guidelines, testing and linting procedures, deployment steps, and additional resources for troubleshooting the project.
+Celica Rowley - 20240821
