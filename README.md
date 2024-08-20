@@ -25,7 +25,7 @@ The solution was designed to be adapted to use better scalable tools such as PyS
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/celicaR/purchases_stats.git
+   git clone git@github.com:celicaR/purchases_stats.git
    cd purchases_stats
    ```
 
