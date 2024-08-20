@@ -1,0 +1,19 @@
+services:
+  test:
+    build:
+      context: .
+    # Ensure the test service runs after the app service is ready
+    command: ["pytest"]
+    working_dir: /app
+
+  app:
+    build:
+      context: .
+    volumes:
+      - .:/app            # Mount the entire project directory
+      - ./data:/data      # Mount the directory containing the JSON file
+    depends_on:
+      - test
+    working_dir: /app
+    container_name: app
+    entrypoint: python src/purchases_stats.py

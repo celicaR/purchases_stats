@@ -1,0 +1,1052 @@
+[
+    {
+        "brand": "newventure.co",
+        "customer_id": "a45f2398-3f57-4d83-84bf-87afc31b483a",
+        "items": [
+            {
+                "department": "Tools",
+                "price": "249.00",
+                "product_category": "Sausages",
+                "product_name": "Intelligent Fresh Pizza",
+                "quantity": 1
+            },
+            {
+                "department": "Health",
+                "price": "366.00",
+                "product_category": "Mouse",
+                "product_name": "Refined Wooden Hat",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "3655582c-4b0c-4db4-9b53-b2e0d06bba8d"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "df23cfd4-d200-4f02-962d-78a9e6031f24",
+        "items": [
+            {
+                "department": "Outdoors",
+                "price": "549.00",
+                "product_category": "Computer",
+                "product_name": "Licensed Soft Table",
+                "quantity": 2
+            },
+            {
+                "department": "Electronics",
+                "price": "330.00",
+                "product_category": "Cheese",
+                "product_name": "Rustic Cotton Pizza",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "3731f03f-f7ac-4089-b43d-13d3845b67e0"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "4d4b28e8-a71d-43c8-8197-8afec2cf69fd",
+        "items": [
+            {
+                "department": "Outdoors",
+                "price": "567.00",
+                "product_category": "Cheese",
+                "product_name": "Fantastic Plastic Pizza",
+                "quantity": 1
+            },
+            {
+                "department": "Garden",
+                "price": "134.00",
+                "product_category": "Towels",
+                "product_name": "Refined Fresh Shoes",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "7f17be6f-dd7b-4956-abdf-6e0c88cb9d09"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "b91ff339-4a6d-43a6-83ff-a6feb01e7725",
+        "items": [
+            {
+                "department": "Movies",
+                "price": "965.00",
+                "product_category": "Shirt",
+                "product_name": "Licensed Cotton Shoes",
+                "quantity": 1
+            },
+            {
+                "department": "Computers",
+                "price": "395.00",
+                "product_category": "Car",
+                "product_name": "Licensed Concrete Salad",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "7b33daaf-15b8-4335-a1e4-3fb7c9c5d644"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "20257384-d7a5-4b8e-8f59-e1aac2723693",
+        "items": [
+            {
+                "department": "Movies",
+                "price": "6.00",
+                "product_category": "Bike",
+                "product_name": "Unbranded Frozen Computer",
+                "quantity": 3
+            },
+            {
+                "department": "Games",
+                "price": "430.00",
+                "product_category": "Pants",
+                "product_name": "Tasty Fresh Sausages",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "c239841f-21ba-4bcd-9e9a-2fec70bc05cb"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "5d0b1a8c-e3e0-46d4-9d0b-227e5616b0c0",
+        "items": [
+            {
+                "department": "Games",
+                "price": "868.00",
+                "product_category": "Salad",
+                "product_name": "Rustic Soft Chicken",
+                "quantity": 1
+            },
+            {
+                "department": "Grocery",
+                "price": "515.00",
+                "product_category": "Gloves",
+                "product_name": "Practical Fresh Hat",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "622a0d77-32dc-4957-87ae-2bb80c677a18"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "2540cf76-e7f3-412d-af48-6dc83c73b99f",
+        "items": [
+            {
+                "department": "Music",
+                "price": "912.00",
+                "product_category": "Car",
+                "product_name": "Small Rubber Gloves",
+                "quantity": 1
+            },
+            {
+                "department": "Baby",
+                "price": "17.00",
+                "product_category": "Shirt",
+                "product_name": "Handcrafted Cotton Bacon",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "e9b130cc-69de-4354-96a9-5f53f8f0643b"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "ff314993-28d4-4c68-928a-3a49d1d5cb03",
+        "items": [
+            {
+                "department": "Industrial",
+                "price": "334.00",
+                "product_category": "Gloves",
+                "product_name": "Tasty Wooden Mouse",
+                "quantity": 2
+            },
+            {
+                "department": "Tools",
+                "price": "816.00",
+                "product_category": "Cheese",
+                "product_name": "Practical Cotton Car",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "48400631-1ef8-44d0-8384-9797d92ae9bc"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "990e26c9-6c0e-4198-9da6-e8490b502ffd",
+        "items": [
+            {
+                "department": "Beauty",
+                "price": "422.00",
+                "product_category": "Chicken",
+                "product_name": "Licensed Soft Salad",
+                "quantity": 1
+            },
+            {
+                "department": "Outdoors",
+                "price": "748.00",
+                "product_category": "Salad",
+                "product_name": "Refined Frozen Cheese",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "3d3d6c59-60b5-4e82-9540-3389df11d3d4"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "abe336d3-b547-4bee-bf98-c67492988aa2",
+        "items": [
+            {
+                "department": "Grocery",
+                "price": "838.00",
+                "product_category": "Fish",
+                "product_name": "Refined Plastic Chicken",
+                "quantity": 2
+            },
+            {
+                "department": "Grocery",
+                "price": "636.00",
+                "product_category": "Pants",
+                "product_name": "Sleek Frozen Chips",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "35b42fc8-5f63-478f-a850-359c7915a3fb"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "029d05fa-8013-4fab-bead-863319fa87d6",
+        "items": [
+            {
+                "department": "Games",
+                "price": "145.00",
+                "product_category": "Pants",
+                "product_name": "Incredible Granite Sausages",
+                "quantity": 2
+            },
+            {
+                "department": "Tools",
+                "price": "723.00",
+                "product_category": "Fish",
+                "product_name": "Fantastic Plastic Ball",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "0d3a20c4-13ca-4dc1-8fdb-cbefdc50b7f9"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "bb3f80b0-30dd-4eaa-9c36-176af87beb07",
+        "items": [
+            {
+                "department": "Industrial",
+                "price": "276.00",
+                "product_category": "Mouse",
+                "product_name": "Intelligent Wooden Pants",
+                "quantity": 3
+            },
+            {
+                "department": "Games",
+                "price": "150.00",
+                "product_category": "Table",
+                "product_name": "Practical Concrete Tuna",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "8285d6c6-1c4b-4691-846a-1d0c6b0a790d"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "a7d018d2-0738-4c23-a88b-4c92d8f5b53d",
+        "items": [
+            {
+                "department": "Toys",
+                "price": "586.00",
+                "product_category": "Hat",
+                "product_name": "Ergonomic Fresh Tuna",
+                "quantity": 2
+            },
+            {
+                "department": "Tools",
+                "price": "952.00",
+                "product_category": "Keyboard",
+                "product_name": "Rustic Plastic Tuna",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "05e3c5c8-74f3-4368-9089-6a75bd539b4e"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "462198c8-3806-4ec3-b523-a0d6e00c5d2e",
+        "items": [
+            {
+                "department": "Outdoors",
+                "price": "693.00",
+                "product_category": "Towels",
+                "product_name": "Rustic Soft Mouse",
+                "quantity": 3
+            },
+            {
+                "department": "Movies",
+                "price": "536.00",
+                "product_category": "Pants",
+                "product_name": "Sleek Soft Salad",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "ff9bd689-f1fe-4293-9e97-3e31bf6251f7"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "97016658-8d91-4c16-8424-896042e9ac9f",
+        "items": [
+            {
+                "department": "Automotive",
+                "price": "194.00",
+                "product_category": "Chips",
+                "product_name": "Sleek Frozen Ball",
+                "quantity": 1
+            },
+            {
+                "department": "Garden",
+                "price": "967.00",
+                "product_category": "Chicken",
+                "product_name": "Awesome Cotton Bike",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "03f4e906-5c06-4b03-af3b-f8df59c3c8bd"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "7a288974-a9f5-4c37-898b-a72ba79cda0d",
+        "items": [
+            {
+                "department": "Outdoors",
+                "price": "693.00",
+                "product_category": "Towels",
+                "product_name": "Rustic Soft Mouse",
+                "quantity": 1
+            },
+            {
+                "department": "Home",
+                "price": "6.00",
+                "product_category": "Keyboard",
+                "product_name": "Handcrafted Wooden Fish",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "4df057b8-8bb3-469b-8c8e-f800026e0b06"
+    },
+    {
+        "brand": "quick.xyz",
+        "customer_id": "54f2875e-608c-4f71-86c3-3eee8b93c0fd",
+        "items": [
+            {
+                "department": "Games",
+                "price": "959.00",
+                "product_category": "Mouse",
+                "product_name": "Small Frozen Shoes",
+                "quantity": 1
+            },
+            {
+                "department": "Music",
+                "price": "986.00",
+                "product_category": "Chair",
+                "product_name": "Sleek Metal Bacon",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "f16ddad7-2fb9-4866-86bb-58f23395d23c"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "5a4d5f8b-67f7-4f52-8708-592f2bd8ab01",
+        "items": [
+            {
+                "department": "Games",
+                "price": "430.00",
+                "product_category": "Pants",
+                "product_name": "Tasty Fresh Sausages",
+                "quantity": 2
+            },
+            {
+                "department": "Games",
+                "price": "799.00",
+                "product_category": "Sausages",
+                "product_name": "Unbranded Metal Computer",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "c8e82874-33e3-40c4-a489-2899565fb47f"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "1ddb85c2-f86c-4732-be71-2d16da81c8f2",
+        "items": [
+            {
+                "department": "Tools",
+                "price": "933.00",
+                "product_category": "Keyboard",
+                "product_name": "Tasty Frozen Table",
+                "quantity": 1
+            },
+            {
+                "department": "Home",
+                "price": "542.00",
+                "product_category": "Ball",
+                "product_name": "Generic Metal Towels",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "0066d87e-f028-4f3c-9f97-c72b56befe08"
+    },
+    {
+        "brand": "quick.xyz",
+        "customer_id": "f0867b1e-3f34-465c-bf09-ad9da88d7871",
+        "items": [
+            {
+                "department": "Baby",
+                "price": "985.00",
+                "product_category": "Car",
+                "product_name": "Handcrafted Soft Bacon",
+                "quantity": 2
+            },
+            {
+                "department": "Music",
+                "price": "917.00",
+                "product_category": "Chips",
+                "product_name": "Awesome Plastic Tuna",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "c6fb2651-e5c0-4a56-8921-e388f2092b74"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "56b13b74-5297-49fe-bcbd-e7f666745b28",
+        "items": [
+            {
+                "department": "Outdoors",
+                "price": "549.00",
+                "product_category": "Computer",
+                "product_name": "Licensed Soft Table",
+                "quantity": 1
+            },
+            {
+                "department": "Sports",
+                "price": "985.00",
+                "product_category": "Tuna",
+                "product_name": "Sleek Steel Pants",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "2d589665-628a-4db4-82ac-e6ecdc3605f9"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "2b575d9c-2675-465c-85b4-59365ed3912f",
+        "items": [
+            {
+                "department": "Games",
+                "price": "35.00",
+                "product_category": "Chicken",
+                "product_name": "Incredible Cotton Sausages",
+                "quantity": 3
+            },
+            {
+                "department": "Grocery",
+                "price": "17.00",
+                "product_category": "Chips",
+                "product_name": "Ergonomic Frozen Ball",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "77304dfd-1701-4e68-b39d-9e6faefbbba9"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "d5efd8a6-840c-44b7-9bde-e8dd9ce9d298",
+        "items": [
+            {
+                "department": "Sports",
+                "price": "86.00",
+                "product_category": "Chips",
+                "product_name": "Fantastic Wooden Chips",
+                "quantity": 1
+            },
+            {
+                "department": "Garden",
+                "price": "134.00",
+                "product_category": "Towels",
+                "product_name": "Refined Fresh Shoes",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "0a62a341-b7e5-4c4e-a788-a2b6dec7b814"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "33868355-31c1-4a8c-8f1f-94cf9a7a2844",
+        "items": [
+            {
+                "department": "Home",
+                "price": "417.00",
+                "product_category": "Pants",
+                "product_name": "Refined Fresh Towels",
+                "quantity": 2
+            },
+            {
+                "department": "Jewelery",
+                "price": "945.00",
+                "product_category": "Mouse",
+                "product_name": "Small Concrete Shirt",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "fb2824d4-8a49-4710-9cac-7a4b2bbc0a79"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "5ed44a58-d503-4a2f-a276-954af2c5250e",
+        "items": [
+            {
+                "department": "Computers",
+                "price": "677.00",
+                "product_category": "Sausages",
+                "product_name": "Licensed Wooden Pants",
+                "quantity": 3
+            },
+            {
+                "department": "Baby",
+                "price": "11.00",
+                "product_category": "Shoes",
+                "product_name": "Awesome Concrete Mouse",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "3d8ee6d3-b784-473f-8ffd-4c9c3330d1c4"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "c490bde0-dec4-49cf-9587-dee1055d7fb2",
+        "items": [
+            {
+                "department": "Movies",
+                "price": "389.00",
+                "product_category": "Chair",
+                "product_name": "Fantastic Granite Shoes",
+                "quantity": 3
+            },
+            {
+                "department": "Outdoors",
+                "price": "62.00",
+                "product_category": "Pants",
+                "product_name": "Licensed Plastic Salad",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "e20a6297-c873-4e82-a2f6-eaeb963d5ebb"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "08ea78fd-ef38-47ae-b8f3-430669d55812",
+        "items": [
+            {
+                "department": "Sports",
+                "price": "584.00",
+                "product_category": "Table",
+                "product_name": "Small Frozen Table",
+                "quantity": 2
+            },
+            {
+                "department": "Garden",
+                "price": "149.00",
+                "product_category": "Towels",
+                "product_name": "Handmade Cotton Cheese",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "88186216-ebcf-4054-ae8f-f742d888c4f9"
+    },
+    {
+        "brand": "quick.xyz",
+        "customer_id": "2b688cc6-778b-416e-aa2f-8545f4510ee2",
+        "items": [
+            {
+                "department": "Clothing",
+                "price": "789.00",
+                "product_category": "Soap",
+                "product_name": "Handmade Concrete Table",
+                "quantity": 3
+            },
+            {
+                "department": "Clothing",
+                "price": "231.00",
+                "product_category": "Bacon",
+                "product_name": "Incredible Frozen Cheese",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "a2964995-cb25-45e6-ad2f-bf515c656f09"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "081cb9fb-dfde-4d55-a046-98d503894279",
+        "items": [
+            {
+                "department": "Movies",
+                "price": "113.00",
+                "product_category": "Chips",
+                "product_name": "Sleek Granite Gloves",
+                "quantity": 2
+            },
+            {
+                "department": "Tools",
+                "price": "952.00",
+                "product_category": "Keyboard",
+                "product_name": "Rustic Plastic Tuna",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "3042fd99-f8cc-4e4d-bd70-1dbfea4d329c"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "41ae45de-21d9-4ed0-a07a-a559deaed8df",
+        "items": [
+            {
+                "department": "Games",
+                "price": "959.00",
+                "product_category": "Mouse",
+                "product_name": "Small Frozen Shoes",
+                "quantity": 2
+            },
+            {
+                "department": "Computers",
+                "price": "337.00",
+                "product_category": "Salad",
+                "product_name": "Licensed Wooden Pizza",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "c303ed09-bf39-4b17-b642-39b254240eb7"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "41562098-6f37-427c-b9cb-903e4477f9d3",
+        "items": [
+            {
+                "department": "Health",
+                "price": "986.00",
+                "product_category": "Salad",
+                "product_name": "Sleek Cotton Soap",
+                "quantity": 2
+            },
+            {
+                "department": "Beauty",
+                "price": "946.00",
+                "product_category": "Gloves",
+                "product_name": "Ergonomic Frozen Soap",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "5fe15f9f-b24e-4b09-a8cf-b427b64d05d1"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "3ffb7f17-c2eb-4367-9ef7-9bc50e942f1c",
+        "items": [
+            {
+                "department": "Grocery",
+                "price": "18.00",
+                "product_category": "Pants",
+                "product_name": "Practical Concrete Pants",
+                "quantity": 3
+            },
+            {
+                "department": "Books",
+                "price": "474.00",
+                "product_category": "Bike",
+                "product_name": "Incredible Plastic Table",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "bc3fab63-7100-4b2e-8889-1117a5c90548"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "a853efd6-05b3-40cf-9957-a9a4565f32df",
+        "items": [
+            {
+                "department": "Kids",
+                "price": "504.00",
+                "product_category": "Sausages",
+                "product_name": "Unbranded Concrete Gloves",
+                "quantity": 2
+            },
+            {
+                "department": "Garden",
+                "price": "939.00",
+                "product_category": "Chicken",
+                "product_name": "Intelligent Steel Shoes",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "e6f4b866-b90b-4617-a243-9aaad58b6ba2"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "28ef439b-3283-41dc-9dec-3e209d70f7e1",
+        "items": [
+            {
+                "department": "Shoes",
+                "price": "364.00",
+                "product_category": "Hat",
+                "product_name": "Incredible Soft Computer",
+                "quantity": 2
+            },
+            {
+                "department": "Clothing",
+                "price": "708.00",
+                "product_category": "Bike",
+                "product_name": "Small Fresh Computer",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "7fff6d14-73e9-474c-b098-0cc5b3cd9729"
+    },
+    {
+        "brand": "quick.xyz",
+        "customer_id": "dd9707fe-1a24-4169-b912-fbbf0e69287f",
+        "items": [
+            {
+                "department": "Kids",
+                "price": "198.00",
+                "product_category": "Tuna",
+                "product_name": "Practical Soft Pizza",
+                "quantity": 3
+            },
+            {
+                "department": "Games",
+                "price": "430.00",
+                "product_category": "Pants",
+                "product_name": "Tasty Fresh Sausages",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "3d5cd73c-f9bd-453f-981a-c96a19f970c8"
+    },
+    {
+        "brand": "quick.xyz",
+        "customer_id": "c1c041ef-1727-4121-94e4-606900ed0cea",
+        "items": [
+            {
+                "department": "Toys",
+                "price": "586.00",
+                "product_category": "Hat",
+                "product_name": "Ergonomic Fresh Tuna",
+                "quantity": 3
+            },
+            {
+                "department": "Clothing",
+                "price": "639.00",
+                "product_category": "Keyboard",
+                "product_name": "Sleek Metal Pizza",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "e9bdae9e-64e2-49c4-9172-c39409f72826"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "06961adb-de17-432f-9f17-2553ecae3a4c",
+        "items": [
+            {
+                "department": "Sports",
+                "price": "107.00",
+                "product_category": "Hat",
+                "product_name": "Unbranded Cotton Keyboard",
+                "quantity": 2
+            },
+            {
+                "department": "Kids",
+                "price": "984.00",
+                "product_category": "Car",
+                "product_name": "Ergonomic Rubber Cheese",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "ee80d8d1-49a2-40cd-b43b-e40e0f0610a0"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "65045dce-5211-4d48-a6f7-72185e89ad0a",
+        "items": [
+            {
+                "department": "Beauty",
+                "price": "422.00",
+                "product_category": "Chicken",
+                "product_name": "Licensed Soft Salad",
+                "quantity": 2
+            },
+            {
+                "department": "Beauty",
+                "price": "104.00",
+                "product_category": "Shoes",
+                "product_name": "Small Concrete Fish",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "49db3986-3ea0-4298-b7a9-f460a0ee8050"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "242d7885-7ca0-41fc-894e-ac1f02ba26d4",
+        "items": [
+            {
+                "department": "Games",
+                "price": "886.00",
+                "product_category": "Hat",
+                "product_name": "Licensed Concrete Cheese",
+                "quantity": 2
+            },
+            {
+                "department": "Movies",
+                "price": "926.00",
+                "product_category": "Soap",
+                "product_name": "Handmade Metal Towels",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "0bf4003c-6aee-48ae-84db-adae6154fca2"
+    },
+    {
+        "brand": "quick.xyz",
+        "customer_id": "ede786b1-a489-4310-b2b4-beabed043ad5",
+        "items": [
+            {
+                "department": "Music",
+                "price": "236.00",
+                "product_category": "Table",
+                "product_name": "Intelligent Granite Chair",
+                "quantity": 3
+            },
+            {
+                "department": "Electronics",
+                "price": "952.00",
+                "product_category": "Bike",
+                "product_name": "Refined Concrete Salad",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "640c2602-09e0-4e97-8221-2e3fdaf30788"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "9113d041-db82-4083-9ecd-7f8d88b5a7e7",
+        "items": [
+            {
+                "department": "Electronics",
+                "price": "952.00",
+                "product_category": "Bike",
+                "product_name": "Refined Concrete Salad",
+                "quantity": 2
+            },
+            {
+                "department": "Electronics",
+                "price": "925.00",
+                "product_category": "Pizza",
+                "product_name": "Handmade Granite Car",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "689a0250-9f15-426e-ab6d-7e488e6f5902"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "b6c9dc5d-1664-4574-9b83-200b9ec563fc",
+        "items": [
+            {
+                "department": "Electronics",
+                "price": "896.00",
+                "product_category": "Computer",
+                "product_name": "Refined Granite Chips",
+                "quantity": 2
+            },
+            {
+                "department": "Music",
+                "price": "767.00",
+                "product_category": "Sausages",
+                "product_name": "Awesome Granite Towels",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "d462b994-1d71-4dec-98e7-b1710fd2438b"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "49587c1c-2874-4598-bb43-50d25f94fbda",
+        "items": [
+            {
+                "department": "Music",
+                "price": "629.00",
+                "product_category": "Table",
+                "product_name": "Refined Soft Hat",
+                "quantity": 2
+            },
+            {
+                "department": "Garden",
+                "price": "939.00",
+                "product_category": "Chicken",
+                "product_name": "Intelligent Steel Shoes",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "8d83f8df-0212-4bdd-8360-4223a5226cbe"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "451b2c26-91c5-43ba-b0df-86adc5082113",
+        "items": [
+            {
+                "department": "Garden",
+                "price": "143.00",
+                "product_category": "Mouse",
+                "product_name": "Incredible Soft Cheese",
+                "quantity": 3
+            },
+            {
+                "department": "Sports",
+                "price": "57.00",
+                "product_category": "Chair",
+                "product_name": "Licensed Wooden Table",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "4e97e959-cfb7-46e9-9c49-f1b7dc9b5b6e"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "7b89f766-909a-4c72-982a-b51acdb484da",
+        "items": [
+            {
+                "department": "Beauty",
+                "price": "33.00",
+                "product_category": "Car",
+                "product_name": "Generic Steel Towels",
+                "quantity": 1
+            },
+            {
+                "department": "Electronics",
+                "price": "903.00",
+                "product_category": "Cheese",
+                "product_name": "Unbranded Rubber Salad",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "7ce57b59-5555-46d6-bbd2-02664958c894"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "bf1dbaf2-cc61-437c-9500-f6ba312f1fa0",
+        "items": [
+            {
+                "department": "Automotive",
+                "price": "438.00",
+                "product_category": "Hat",
+                "product_name": "Incredible Frozen Gloves",
+                "quantity": 3
+            },
+            {
+                "department": "Books",
+                "price": "277.00",
+                "product_category": "Ball",
+                "product_name": "Incredible Fresh Car",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "91a766a7-4c63-47ca-ae0d-cda7eb62adfe"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "7656aeb5-e574-4a33-bc74-34a6171d664d",
+        "items": [
+            {
+                "department": "Electronics",
+                "price": "537.00",
+                "product_category": "Bike",
+                "product_name": "Small Steel Shirt",
+                "quantity": 2
+            },
+            {
+                "department": "Health",
+                "price": "960.00",
+                "product_category": "Shoes",
+                "product_name": "Refined Concrete Soap",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "25159d8b-b7bc-4989-bcdb-be5d4a2af2e8"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "7470de15-5c6d-4ca0-9882-eefd0786013a",
+        "items": [
+            {
+                "department": "Electronics",
+                "price": "664.00",
+                "product_category": "Chips",
+                "product_name": "Gorgeous Metal Computer",
+                "quantity": 1
+            },
+            {
+                "department": "Outdoors",
+                "price": "788.00",
+                "product_category": "Tuna",
+                "product_name": "Fantastic Cotton Pants",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "628c8c4d-d135-49c9-b9d1-f3094fef0295"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "bb370a1c-d708-4a94-b3cd-282a8a6bb61e",
+        "items": [
+            {
+                "department": "Home",
+                "price": "787.00",
+                "product_category": "Bike",
+                "product_name": "Handcrafted Frozen Sausages",
+                "quantity": 1
+            },
+            {
+                "department": "Books",
+                "price": "277.00",
+                "product_category": "Ball",
+                "product_name": "Incredible Fresh Car",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "4ac3fd29-723e-456d-9f77-e0dc943188b3"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "42178811-743c-4843-a543-1b2581deaf29",
+        "items": [
+            {
+                "department": "Home",
+                "price": "343.00",
+                "product_category": "Computer",
+                "product_name": "Intelligent Granite Shoes",
+                "quantity": 3
+            },
+            {
+                "department": "Music",
+                "price": "626.00",
+                "product_category": "Hat",
+                "product_name": "Intelligent Metal Fish",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "8342918a-149a-4f34-9a01-09eed7c0a826"
+    }
+]

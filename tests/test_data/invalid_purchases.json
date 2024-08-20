@@ -1,0 +1,131 @@
+[
+    {
+        "brand": "newventure.co",
+        "customer_id": "a45f2398-3f57-4d83-84bf-87afc31b483a",
+        "items": [
+            {
+                "department": "Tools",
+                "price": "249.00",
+                "product_category": "Sausages",
+                "product_name": "Intelligent Fresh Pizza",
+                "quantity": 1
+            },
+            {
+                "department": "Health",
+                "price": "366.00",
+                "product_category": "Mouse",
+                "product_name": "Refined Wooden Hat",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "3655582c-4b0c-4db4-9b53-b2e0d06bba8d"
+    },
+    {
+        "brand": "newventure.co",
+        "items": [
+            {
+                "department": "Tools",
+                "price": "249.00",
+                "product_category": "Sausages",
+                "product_name": "Intelligent Fresh Pizza",
+                "quantity": 1
+            },
+            {
+                "department": "Health",
+                "price": "366.00",
+                "product_category": "Mouse",
+                "product_name": "Refined Wooden Hat",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "3655582c-4b0c-4db4-9b53-b2e0d06bba8d"
+    },
+    {
+        "brand": "Hammerbarn",
+        "customer_id": "df23cfd4-d200-4f02-962d-78a9e6031f24",
+        "items": [
+            {
+                "department": "Outdoors",
+                "price": "549.00",
+                "product_category": "Computer",
+                "product_name": "Licensed Soft Table",
+                "quantity": 2
+            },
+            {
+                "department": "Electronics",
+                "price": "330.00",
+                "product_category": "Cheese",
+                "product_name": "Rustic Cotton Pizza",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "4d4b28e8-a71d-43c8-8197-8afec2cf69fd",
+        "purchase_id": "7f17be6f-dd7b-4956-abdf-6e0c88cb9d09"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "b91ff339-4a6d-43a6-83ff-a6feb01e7725",
+        "items": [
+            {
+                "department": "Movies",
+                "price": "965.00",
+                "product_category": "Shirt",
+                "product_name": "Licensed Cotton Shoes",
+                "quantity": 1
+            },
+            {
+                "department": "Computers",
+                "price": "395.00",
+                "product_category": "Car",
+                "product_name": "Licensed Concrete Salad",
+                "quantity": 1
+            }
+        ],
+        "purchase_id": "7b33daaf-15b8-4335-a1e4-3fb7c9c5d644"
+    },
+    {
+        "brand": "A Mart",
+        "customer_id": "20257384-d7a5-4b8e-8f59-e1aac2723693",
+        "items": [
+            {
+                "department": "Movies",
+                "price": "6.00",
+                "product_category": "Bike",
+                "product_name": "Unbranded Frozen Computer",
+                "quantity": 3
+            },
+            {
+                "department": "Games",
+                "price": "430.00",
+                "product_category": "Pants",
+                "product_name": "Tasty Fresh Sausages",
+                "quantity": 2
+            }
+        ],
+        "purchase_id": "c239841f-21ba-4bcd-9e9a-2fec70bc05cb"
+    },
+    {
+        "brand": "newventure.co",
+        "customer_id": "5d0b1a8c-e3e0-46d4-9d0b-227e5616b0c0",
+        "items": [
+            {
+                "department": "Games",
+                "price": "868.00",
+                "product_category": "Salad",
+                "product_name": "Rustic Soft Chicken",
+                "quantity": 1
+            },
+            {
+                "department": "Grocery",
+                "price": "515.00",
+                "product_category": "Gloves",
+                "product_name": "Practical Fresh Hat",
+                "quantity": 3
+            }
+        ],
+        "purchase_id": "622a0d77-32dc-4957-87ae-2bb80c677a18"
+    }
+]
