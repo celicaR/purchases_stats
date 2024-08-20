@@ -161,7 +161,7 @@ Resulting on these values output:
    |`make run json_file_path=data/purchases_v1.json`| To run the application with the given JSON data file. |
    |`make test` |To run the unit tests for the application.       |
    |`make validation` |To validate the code via linting, using **black** and formatting, using **ruff**.|
-   |`make start`|To validate the code, perform unit tests, create the required images and containers, and the application. |
+   |`make start json_file_path=data/purchases_v1.json`|To validate the code, perform unit tests, create the required images and containers, and the application. |
    |`make stop` |To stop and clean any docker images and containers.       |
    |`docker-compose logs -f` |To view the logs and ensure the application is running.       |
    |`make help` |To view `make` commands available.       |
