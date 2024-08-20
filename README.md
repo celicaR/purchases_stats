@@ -120,7 +120,7 @@ Here is the list of other requirements for the project to solve:
 
 | Requirement | Description | Outcome |
 |-------------|-------------|---------|
-|CLI application|The application can be executed in the terminal/CLI. | Both the application can run locally and/or via docker and make commands from the CLI. See Docker Deployment commands.        |
+|CLI application|The application can be executed in the terminal/CLI. | Both the application can run locally and/or via docker and make commands from the CLI. See [Docker Deployment commands](https://github.com/celicaR/purchases_stats/blob/main/README.md#docker-deployment).        |
 |Input File     |Allow input of purchases via a file, containing data in the JSON format. | The JSON file path has to be specified as an argument in all cases, i.e. locally, docker, make commands. |
 |Required statistics & Print results to STDOUT in a JSON format |![alt text](images/required_stats.jpg)             | ![alt text](images/stdout.jpg)        |
 </details>
