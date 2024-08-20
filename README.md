@@ -27,6 +27,7 @@ The solution was designed to be adapted to use better scalable tools such as PyS
    ```bash
    git clone git@github.com:celicaR/purchases_stats.git
    cd purchases_stats
+   chmod 744 scripts/*.sh
    ```
 
    ##### **Project Structure**
