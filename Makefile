@@ -61,7 +61,7 @@ validation: setup #🔄 Validate python code formatting and lint.
 # 	@./scripts/dbt_run.sh
 
 .PHONY: start
-start: verification test run #✨ Validate, test and run the app.
+start: verification test run $(json_file_path) #✨ Validate, test and run the app.
 	@echo "✨ Validated, tested and started the app and its dependencies."
 
 .PHONY: stop
